@@ -1,3 +1,3 @@
-This is the source code powering [Carsnet](https://carsnet.github.io)
+#Carsnet
 
-An endeavour by [Tejash Dutta](https://www.facebook.com/tejash.datta) to unveil the super cars from Calcutta!
+This is the source code of Carsnet. Carsnet is a static website that features information and pictures of Supercars. It also showcases the supercars of Kolkata.
